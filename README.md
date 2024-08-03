@@ -5,7 +5,6 @@ The command below specifies the exact command-line syntax for invoking hashing o
 	
 	1. python3 sha512.py input.txt hashed.txt
 
- • SHA-512 Hashing –
-
- – performs SHA-512 hasing on an inputted text file and outputs a hexademical hashed version of the original input.
+ - SHA-512 Hashing:
+ 	- performs SHA-512 hasing on an inputted text file and outputs a hexademical hashed version of the original input.
  
