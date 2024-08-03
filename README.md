@@ -1,5 +1,5 @@
 # SHA-512
-SHA-512 Hash Algorithm Python Script Implementation (text (.txt) files)
+SHA-512 Hash Algorithm Python Script Implementation (supports text (.txt) files)
 
 The command below specifies the exact command-line syntax for invoking hashing of a text file. 
 	
